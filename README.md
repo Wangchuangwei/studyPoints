@@ -1,1 +1,11 @@
-"# studyPoints" 
+## 研究点2
+
+代码运行命令
+
+```
+    python sources/train.py 
+```
+
+具体的模型代码所在位置**sources/utils/model.py**
+
+数据处理模块所在位置**sources/data/dataset.py**
