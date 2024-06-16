@@ -1,3 +1,7 @@
+## 研究点1
+
+代码仓库所在位置：<a>https://github.com/cmgads/CMGADS</a>
+
 ## 研究点2
 
 代码运行命令
